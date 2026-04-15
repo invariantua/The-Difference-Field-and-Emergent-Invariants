@@ -1,8 +1,9 @@
 cff-version: 1.2.0
-title: "Difference Fields"
-message: "If you use this repository, please cite it."
+title: "Difference Fields and Emergent Invariants: A Compression-Based Framework for Space, Time, and Self"
+message: "If you use articles fromt his repository, please cite it."
 authors:
-  - family-names: "Durniev"
-    given-names: "Vitalii"
-repository-code: ""
-license: "Proprietary"
+  - family-names: Durniev
+    given-names: Vitalii
+year: 2026
+repository-code: "https://github.com/invariantua/A-Compression-Based-Framework-of-Difference-Invariance-and-Self"
+license: "CC-BY-4.0"
