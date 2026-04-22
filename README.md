@@ -124,10 +124,6 @@ GitHub repository, 2026.
 
 ---
 
-## Notes
-
----
-
 ## Repository structure
 
 | Directory | Description (EN) | Опис (UK) |
@@ -154,5 +150,7 @@ GitHub repository, 2026.
 | `/archive/deprecated` | Deprecated materials kept for historical or comparative reasons. | Застарілі матеріали, що зберігаються з історичних або порівняльних міркувань. |
 
 ---
+
+## Notes
 
 This repository is intended as a place for publishing and developing research materials, not as a claim that the framework presented here is already complete or verified. Its primary purpose is to introduce a conceptual perspective that may later support more rigorous formal, physical, mathematical, and interdisciplinary work.
