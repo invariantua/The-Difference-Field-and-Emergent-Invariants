@@ -30,10 +30,10 @@ Within this perspective, the accessible world of a subject is not identical to t
 
 ## Documents
 
-| Document | Language | Format |
-| :--- | :--- | :--- |
-| **Position Paper** | English | [PDF]() |
-| **Position Paper** | Українська | [PDF](./docs/articles/position-paper/build/uk/position-paper_uk.pdf) |
+| Document | Language | Format PDF | Format MD |
+| :--- | :--- | :--- | :--- |
+| **Position Paper** | English | [PDF](./docs/articles/position-paper/build/en/position-paper_en.pdf) | [MD](./docs/articles/position-paper/build/en/position-paper_en.md) |
+| **Position Paper** | Українська | [PDF](./docs/articles/position-paper/build/uk/position-paper_uk.pdf) | [MD](./docs/articles/position-paper/build/uk/position-paper_uk.md) |
 
 ---
 
